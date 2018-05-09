@@ -1,0 +1,8 @@
+testMessage
+testMessage1
+1. JAVA 파일을 만든다.
+2. 저장한다.
+3. git add (파일이름)
+4. git commit -m '보고서 내용같은거 작성'
+    ex) git commit -m 'java파일추가'
+5. git push origin master
